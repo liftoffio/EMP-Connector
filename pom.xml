@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>liftoff</groupId>
+    <groupId>com.salesforce.conduit</groupId>
     <artifactId>emp-connector</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2-liftoff0</version>
     <name>emp-connector</name>
     <description>A simplified connector for EMP</description>
     <url>https://github.com/forcedotcom/EMP-Connector</url>
